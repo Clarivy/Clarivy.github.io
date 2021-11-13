@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <clipPath id="clip-Flutter_Web">
+      <rect width="400" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="Flutter_Web" data-name="Flutter Web" clip-path="url(#clip-Flutter_Web)">
+    <rect width="400" height="400" fill="#fff"/>
+    <g id="Group_2277" data-name="Group 2277" transform="translate(21.625 20.386)">
+      <circle id="Ellipse_178" data-name="Ellipse 178" cx="178.5" cy="178.5" r="178.5" transform="translate(0.375 -0.386)" fill="#d2e3fc"/>
+      <path id="Icon_simple-flutter" data-name="Icon simple-flutter" d="M97.139,0,3.45,93.579,32.3,122.433,154.612.094H97.24Zm.109,86.342L46.785,136.7,97.24,187.151h57.5L104.36,136.711l50.377-50.377H97.256Z" transform="translate(77.164 88.386)" fill="#4385f3"/>
+    </g>
+  </g>
+</svg>

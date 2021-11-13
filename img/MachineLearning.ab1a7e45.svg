@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_1155" data-name="Path 1155" d="M113.066,54.9,25,4.8V210.678l35.226-20.353V132.4l26.615,15.265L86.45,108.13,60.226,92.866V69.773l52.84,30.921Z" transform="translate(-25 -4.8)" fill="#fbbc04"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_1157" data-name="Path 1157" d="M.5,54.9,88.566,4.8V210.678L53.34,190.325V69.773L.5,100.694Z" transform="translate(-0.5 -4.8)" fill="#fbbc04"/>
+    </clipPath>
+    <clipPath id="clip-Machine_Learning">
+      <rect width="400" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="Machine_Learning" data-name="Machine Learning" clip-path="url(#clip-Machine_Learning)">
+    <rect width="400" height="400" fill="#fff"/>
+    <g id="Group_2278" data-name="Group 2278" transform="translate(19.78 20.06)">
+      <circle id="Ellipse_178" data-name="Ellipse 178" cx="180" cy="180" r="180" transform="translate(0.22 -0.06)" fill="#fef7e0"/>
+      <g id="Group_2241" data-name="Group 2241" transform="translate(181.534 75.59)">
+        <g id="Group_2240" data-name="Group 2240" transform="translate(0 0)">
+          <g id="Group_2239" data-name="Group 2239" clip-path="url(#clip-path)">
+            <path id="Path_1154" data-name="Path 1154" d="M-1.6,4.6H214.455V211.652H-1.6Z" transform="translate(-102.513 -5.383)" fill="#fbbc04"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_2244" data-name="Group 2244" transform="translate(85.64 75.59)">
+        <g id="Group_2243" data-name="Group 2243" transform="translate(0 0)">
+          <g id="Group_2242" data-name="Group 2242" clip-path="url(#clip-path-2)">
+            <path id="Path_1156" data-name="Path 1156" d="M-1.9,4.6H214.155V211.652H-1.9Z" transform="translate(-7.494 -5.383)" fill="#fbbc04"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

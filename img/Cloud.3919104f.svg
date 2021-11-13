@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <clipPath id="clip-Cloud">
+      <rect width="400" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="Cloud" clip-path="url(#clip-Cloud)">
+    <rect width="400" height="400" fill="#fff"/>
+    <g id="Group_2276" data-name="Group 2276" transform="translate(19.561 20.099)">
+      <circle id="Ellipse_178" data-name="Ellipse 178" cx="180" cy="180" r="180" transform="translate(-0.561 -0.099)" fill="#fce8e6"/>
+      <g id="Group_1175" data-name="Group 1175" transform="translate(73.468 103.063)">
+        <path id="Path_599" data-name="Path 599" d="M730.83,264A69.248,69.248,0,0,0,601.5,245.529a55.411,55.411,0,0,0,6,110.5H727.55A46.067,46.067,0,0,0,730.83,264Zm-3.28,73.554H607.5a36.938,36.938,0,1,1,0-73.877h6.557A50.784,50.784,0,0,1,713.7,277.53v4.618h13.853a27.7,27.7,0,1,1,0,55.406Z" transform="translate(-552.089 -208.268)" fill="#ea4435"/>
+      </g>
+    </g>
+  </g>
+</svg>

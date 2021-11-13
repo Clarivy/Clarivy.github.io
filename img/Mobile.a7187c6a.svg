@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <clipPath id="clip-Mobile">
+      <rect width="400" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="Mobile" clip-path="url(#clip-Mobile)">
+    <rect width="400" height="400" fill="#fff"/>
+    <g id="Group_2275" data-name="Group 2275" transform="translate(19.985 19.985)">
+      <g id="Group_2246" data-name="Group 2246" transform="translate(0)">
+        <circle id="Ellipse_178" data-name="Ellipse 178" cx="180" cy="180" r="180" transform="translate(0.015 0.015)" fill="#ededfd"/>
+        <path id="Path_1153" data-name="Path 1153" d="M1024.978,247.627h-88.7a17.917,17.917,0,0,0-17.9,17.9v163.4a17.917,17.917,0,0,0,17.9,17.9h88.7a17.916,17.916,0,0,0,17.9-17.9v-163.4A17.918,17.918,0,0,0,1024.978,247.627Zm5.447,181.3a5.453,5.453,0,0,1-5.447,5.446h-88.7a5.453,5.453,0,0,1-5.447-5.446v-163.4a5.453,5.453,0,0,1,5.447-5.446h20.4v3.058a7.188,7.188,0,0,0,7.187,7.187H997.4a7.188,7.188,0,0,0,7.187-7.187V260.08h20.4a5.452,5.452,0,0,1,5.446,5.446v163.4Z" transform="translate(-800.657 -164.506)" fill="#191adf"/>
+      </g>
+    </g>
+  </g>
+</svg>
