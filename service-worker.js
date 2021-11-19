@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.41f94fc4eda178642798cf7091a21735.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/precache-manifest.fbcee76e0cb455dc1811c353a36abc90.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 self.addEventListener("message", (e) => {
   if (!e.data) {
@@ -40,23 +40,5 @@ self.addEventListener("push", (event) => {
   };
   event.waitUntil(self.registration.showNotification(dataPush.title, options));
 });
-self.addEventListener(
-  "notificationclick",
-  (event) => {
-    if (event.action === "visit") {
-      clients.openWindow(dataPush.body.learnMore);
-    } else {
-      clients.openWindow("/");
-    }
-    event.notification.close();
-  },
-  false
-);
-
-workbox.core.setCacheNameDetails({
-  prefix: "cache",
-});
-
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
-workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
