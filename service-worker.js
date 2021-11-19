@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.70041e9fcf854f2e37333140fd1f1cf4.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/precache-manifest.41f94fc4eda178642798cf7091a21735.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 self.addEventListener("message", (e) => {
   if (!e.data) {
@@ -25,10 +25,9 @@ self.addEventListener("push", (event) => {
   }
   var options = {
     body: dataPush.body.body,
-    icon: "img/icons/favicon-32x32.png",
+    icon: "img/icons/logo.png",
     dir: "ltr",
     image: dataPush.image,
-    badge: "img/icons/favicon-32x32.png",
     tag: dataPush.tag,
     requireInteraction: true,
     renotify: true,
