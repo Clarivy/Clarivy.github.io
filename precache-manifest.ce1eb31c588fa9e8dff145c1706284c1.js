@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3dab495202e4e4113fb",
+    "revision": "8b9c927a2036b26c1af0",
     "url": "/css/agenda.fdffd4ba.css"
   },
   {
-    "revision": "48d6d82c644c2b2d8db1",
+    "revision": "cf606b7c116b17c94707",
     "url": "/css/app.cd206158.css"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-vendors.f0bf12b5.css"
   },
   {
-    "revision": "995efa51d1ac490371b6",
+    "revision": "6e3affc091a6541a4a9b",
     "url": "/css/speakers.c2475735.css"
   },
   {
@@ -236,16 +236,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/zouyan.3b4777b5.jpg"
   },
   {
-    "revision": "c8100cbdf5b14ce7b752b61e4660ec72",
+    "revision": "a830d0302591b504a23d0f1c9bfc77ec",
     "url": "/index.html"
   },
   {
-    "revision": "c3dab495202e4e4113fb",
-    "url": "/js/agenda.9dac3434.js"
+    "revision": "8b9c927a2036b26c1af0",
+    "url": "/js/agenda.3c284fc2.js"
   },
   {
-    "revision": "48d6d82c644c2b2d8db1",
-    "url": "/js/app.567adc2d.js"
+    "revision": "cf606b7c116b17c94707",
+    "url": "/js/app.66aa0a16.js"
   },
   {
     "revision": "997e0d65ae9c0605ff6b",
@@ -296,8 +296,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-vendors.e8644384.js"
   },
   {
-    "revision": "995efa51d1ac490371b6",
-    "url": "/js/speakers.e9c71d45.js"
+    "revision": "6e3affc091a6541a4a9b",
+    "url": "/js/speakers.d7d4f5e7.js"
   },
   {
     "revision": "9cd39450fab716f353ed4e99efc7a2e0",
