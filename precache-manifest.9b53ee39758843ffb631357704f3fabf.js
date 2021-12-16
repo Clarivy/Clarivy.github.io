@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d53574408bb67f05151e",
+    "revision": "a6d429bbe149f1d6abf5",
     "url": "/css/agenda.a2f43142.css"
   },
   {
-    "revision": "1b42ffc82dcce9f575fc",
+    "revision": "ecfcbae709e9b3ec0847",
     "url": "/css/app.cd206158.css"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-vendors.f0bf12b5.css"
   },
   {
-    "revision": "7865f45dc1371b9b8b08",
+    "revision": "4440c380f68532c6f666",
     "url": "/css/speakers.c2475735.css"
   },
   {
@@ -248,16 +248,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/zouyan.916e4c66.webp"
   },
   {
-    "revision": "b72666712d54fdbefe37f5ffca3c015c",
+    "revision": "90d1c68fe1f26e66aa403b8060f2c081",
     "url": "/index.html"
   },
   {
-    "revision": "d53574408bb67f05151e",
-    "url": "/js/agenda.8c9cca75.js"
+    "revision": "a6d429bbe149f1d6abf5",
+    "url": "/js/agenda.872a346c.js"
   },
   {
-    "revision": "1b42ffc82dcce9f575fc",
-    "url": "/js/app.a5f60970.js"
+    "revision": "ecfcbae709e9b3ec0847",
+    "url": "/js/app.3a051fe5.js"
   },
   {
     "revision": "997e0d65ae9c0605ff6b",
@@ -292,8 +292,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-7ae0c7c4.67301e0b.js"
   },
   {
-    "revision": "c881d90b6415e6d0e7be",
-    "url": "/js/chunk-c3dfffae.348e16b3.js"
+    "revision": "f722fbe3d9ef3ba3e5c4",
+    "url": "/js/chunk-c3dfffae.af1fd19a.js"
   },
   {
     "revision": "53bc0f7f8366f04cdbf0",
@@ -308,8 +308,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-vendors.e8644384.js"
   },
   {
-    "revision": "7865f45dc1371b9b8b08",
-    "url": "/js/speakers.e330cde6.js"
+    "revision": "4440c380f68532c6f666",
+    "url": "/js/speakers.e97f2f18.js"
   },
   {
     "revision": "9cd39450fab716f353ed4e99efc7a2e0",
