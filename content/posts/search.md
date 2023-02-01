@@ -5,4 +5,5 @@ url: "/search"
 # description: "Description for Search"
 summary: "search"
 placeholder: "type keywords to search"
+draft: true
 ---
