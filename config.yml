@@ -41,18 +41,9 @@ params:
   showtoc: false
   tocopen: false
 
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
-
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: favicon.ico
     iconHeight: 35
 
   # profile-mode
@@ -99,9 +90,9 @@ params:
     linkFullImages: true
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/Clarivy/hugo-homepage"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -114,11 +105,6 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
-outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
 menu:
   main:
     - identifier: search
