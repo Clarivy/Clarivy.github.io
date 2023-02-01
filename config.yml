@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: "Qingcheng Zhao"
   # author: ["Me", "You"] # multiple authors
-  DateFormat: "January 2, 2006"
+  DateFormat: "Mon, Jan 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
