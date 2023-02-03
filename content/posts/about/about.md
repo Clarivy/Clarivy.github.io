@@ -8,7 +8,7 @@ draft: false
 I am Qingcheng Zhao, a Computer Science student at ShanghaiTech University. I am interested in Machine Learning, and Computer Graphics. I am currently having an internship at [Deemos](https://deemos.com/), working on the most advanced DigitalHuman and 3D face reconstruction technology.
 
 
-<div style="display:flex; justify-content: space-evenly;">
+<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap;">
 <iframe
     src="https://github-readme-stats.vercel.app/api?username=clarivy&theme=transparent&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&line_height=29"
     style="border: 0;"
@@ -23,7 +23,13 @@ I am Qingcheng Zhao, a Computer Science student at ShanghaiTech University. I am
 
 ## Experience
 
-### DJI Technology Co., Ltd. (Jun. 2022 - Nov. 2022)
+<div style="display:flex; justify-content: space-between;align-items: center;">
+<h3>
+DJI Technology Co., Ltd. (Jun. 2022 - Nov. 2022)
+</h3>
+<img src="/posts/about/images/dji.svg" style="height:24px;margin:0;">
+</img>
+</div>
 
 #### Development Engineer (Internship)
 
@@ -32,7 +38,14 @@ I am Qingcheng Zhao, a Computer Science student at ShanghaiTech University. I am
 - Profiling the existing system and optimizing the bottleneck of the application.
 - Visualized the data in real time using QCustomPlot
 
-### Deemos Technologies Inc. (Nov. 2022 - Present)
+
+<div style="display:flex; justify-content: space-between;align-items: center;">
+<h3>
+Deemos Technologies Inc. (Nov. 2022 - Present)
+</h3>
+<img src="/posts/about/images/deemos-dark.png" style="height:24px;margin:0;">
+</img>
+</div>
 
 #### Software Engineer (Internship)
 
@@ -46,18 +59,18 @@ I am Qingcheng Zhao, a Computer Science student at ShanghaiTech University. I am
 
 #### 2021 China Collegiate Programming Contest, Harbin Site
 
-{{< figure src="/posts/about/images/CCPC_HRB.jpg" height="300vh" align="center" >}}
+{{< figure src="/posts/about/images/CCPC_HRB.jpg" height="300" align="center" >}}
 
 ### One-hundred Fourth Place
 
 #### 2021 ICPC Asia-East Continent Final Contest
 
-{{< figure src="/posts/about/images/ECFinal.jpg" height="300vh" align="center" >}}
+{{< figure src="/posts/about/images/ECFinal.jpg" height="300" align="center" >}}
 
 ### First Prize
 
 #### Shanghai Makers Contest
 
-{{< figure src="/posts/about/images/ShanghaiMaker.jpg" height="300vh" align="center" >}}
+{{< figure src="/posts/about/images/ShanghaiMaker.jpg" height="300" align="center" >}}
 
 ## Skills
