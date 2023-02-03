@@ -2,6 +2,7 @@ title: "Qingcheng\'s Site"
 paginate: 5
 title: "Qingcheng\'s Site"
 theme: 'hugo-PaperMod'
+baseURL: 'https://clarivy.github.io/'
 
 enableRobotsTXT: true
 buildDrafts: false
