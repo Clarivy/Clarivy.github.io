@@ -7,6 +7,20 @@ draft: false
 
 I am Qingcheng Zhao, a Computer Science student at ShanghaiTech University. I am interested in Machine Learning, and Computer Graphics. I am currently having an internship at [Deemos](https://deemos.com/), working on the most advanced DigitalHuman and 3D face reconstruction technology.
 
+
+<div style="display:flex; justify-content: space-evenly;">
+<iframe
+    src="https://github-readme-stats.vercel.app/api?username=clarivy&theme=transparent&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&line_height=29"
+    style="border: 0;"
+    >
+</iframe>
+<iframe
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarivy&theme=transparent&layout=compact&langs_count=6&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&include_orgs=true"
+    style="border: 0;"
+    >
+</iframe>
+</div>
+
 ## Experience
 
 ### DJI Technology Co., Ltd. (Jun. 2022 - Nov. 2022)
