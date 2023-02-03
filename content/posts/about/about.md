@@ -32,16 +32,18 @@ I am Qingcheng Zhao, a Computer Science student at ShanghaiTech University. I am
 
 #### 2021 China Collegiate Programming Contest, Harbin Site
 
-{{<figure src="CCPC_HRB.jpg" height="300vh" title="Hello" align="center">}}
+{{< figure src="/posts/about/images/CCPC_HRB.jpg" height="300vh" align="center" >}}
 
 ### One-hundred Fourth Place
 
 #### 2021 ICPC Asia-East Continent Final Contest
 
-{{<figure src="ECFinal.jpg" height="300vh" title="Hello" align="center">}}
+{{< figure src="/posts/about/images/ECFinal.jpg" height="300vh" align="center" >}}
 
 ### First Prize
 
 #### Shanghai Makers Contest
+
+{{< figure src="/posts/about/images/ShanghaiMaker.jpg" height="300vh" align="center" >}}
 
 ## Skills
