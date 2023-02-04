@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Qingcheng&#39;s Site</title>
+    <link>https://clarivy.github.io/posts/</link>
+    <description>Recent content in Posts on Qingcheng&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 26 Jan 2023 16:25:07 +0800</lastBuildDate><atom:link href="https://clarivy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://clarivy.github.io/about/</link>
+      <pubDate>Thu, 26 Jan 2023 16:25:07 +0800</pubDate>
+      
+      <guid>https://clarivy.github.io/about/</guid>
+      <description>I am Qingcheng Zhao, a Computer Science student at ShanghaiTech University. I am interested in Machine Learning, and Computer Graphics. I am currently having an internship at Deemos, working on the most advanced DigitalHuman and 3D face reconstruction technology.
+Experience DJI Technology Co., Ltd. (Jun. 2022 - Nov. 2022) Development Engineer (Internship) Built a Qt application interacting with Drones through ADB (Android Debug Bridg) that could collect, analyze and visualize data from Drones.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://clarivy.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 26 Jan 2023 16:25:07 +0800</pubDate>
+      
+      <guid>https://clarivy.github.io/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>
