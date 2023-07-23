@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://clarivy.github.io/posts/courseprettier/courseprettier/</loc>
-    <lastmod>2023-02-16T14:52:07+08:00</lastmod>
+    <loc>https://clarivy.github.io/coursebench-ai/</loc>
+    <lastmod>2023-07-23T22:49:07+08:00</lastmod>
   </url><url>
     <loc>https://clarivy.github.io/posts/</loc>
-    <lastmod>2023-02-16T14:52:07+08:00</lastmod>
+    <lastmod>2023-07-23T22:49:07+08:00</lastmod>
   </url><url>
     <loc>https://clarivy.github.io/</loc>
+    <lastmod>2023-07-23T22:49:07+08:00</lastmod>
+  </url><url>
+    <loc>https://clarivy.github.io/posts/courseprettier/courseprettier/</loc>
     <lastmod>2023-02-16T14:52:07+08:00</lastmod>
   </url><url>
     <loc>https://clarivy.github.io/about/</loc>
