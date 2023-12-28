@@ -13,8 +13,9 @@
       <pubDate>Thu, 28 Dec 2023 14:47:05 +0800</pubDate>
       
       <guid>https://clarivy.github.io/ControlledDreamGaussian/</guid>
-      <description>Enhancing 3D Character Generation with ControlNet and LoRA [Paper]|[Code] Fig 1: Two-Stage Training Methodology
-Introduction The field of digital 3D content creation, crucial in gaming, advertising, and the emerging MetaVerse, requires efficient and sophisticated tools for generating 3D characters. This blog post delves into an innovative approach that integrates ControlNet and Low-Rank Adaptation (LoRA) into existing text-to-image diffusion models, offering a solution to common issues like spatial inconsistency and multi-view artifacts in multi-view image synthesis.</description>
+      <description>[Paper]|[Code] Fig 1: Two-Stage Training Methodology
+Introduction The field of digital 3D content creation, crucial in gaming, advertising, and the emerging MetaVerse, requires efficient and sophisticated tools for generating 3D characters. This blog post delves into an innovative approach that integrates ControlNet and Low-Rank Adaptation (LoRA) into existing text-to-image diffusion models, offering a solution to common issues like spatial inconsistency and multi-view artifacts in multi-view image synthesis.
+Gallery 3D Model Examples Pose Reference Images Ref Image Openpose Generated 3D Model Training Process Methodology Pipeline Overview The methodology comprises three core components:</description>
     </item>
     
     <item>
