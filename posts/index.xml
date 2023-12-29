@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Qingcheng&#39;s Site</title>
     <link>https://clarivy.github.io/posts/</link>
     <description>Recent content in Posts on Qingcheng&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Dec 2023 14:47:05 +0800</lastBuildDate><atom:link href="https://clarivy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Dec 2023 14:47:05 +0800</lastBuildDate>
+    <atom:link href="https://clarivy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Enhancing 3D Character Generation with ControlNet and LoRA</title>
       <link>https://clarivy.github.io/ControlledDreamGaussian/</link>
       <pubDate>Thu, 28 Dec 2023 14:47:05 +0800</pubDate>
-      
       <guid>https://clarivy.github.io/ControlledDreamGaussian/</guid>
       <description>[Paper]|[Code] Fig 1: Two-Stage Training Methodology
 Introduction The field of digital 3D content creation, crucial in gaming, advertising, and the emerging MetaVerse, requires efficient and sophisticated tools for generating 3D characters. This blog post delves into an innovative approach that integrates ControlNet and Low-Rank Adaptation (LoRA) into existing text-to-image diffusion models, offering a solution to common issues like spatial inconsistency and multi-view artifacts in multi-view image synthesis.
 Gallery 3D Model Examples Pose Reference Images Ref Image Openpose Generated 3D Model Training Process Methodology Pipeline Overview The methodology comprises three core components:</description>
     </item>
-    
     <item>
       <title>新生特辑 | SI100&#43; 信息科学初学者指南</title>
       <link>https://clarivy.github.io/beginners-guide/</link>
       <pubDate>Wed, 02 Aug 2023 22:49:07 +0800</pubDate>
-      
       <guid>https://clarivy.github.io/beginners-guide/</guid>
       <description>Hey There, Future Tech Whiz! 🙌 早上好中午好晚上好！
 相信你们中的很多人都对信息科学充满了好奇；而无论你的专业是什么，信息科学也将会成为你们未来的生活中不可缺少的一部分。
@@ -36,37 +34,30 @@ Gallery 3D Model Examples Pose Reference Images Ref Image Openpose Generated 3D 
 愿这份初学者指南成为你探索信息科学世界的指南针。一起来学习吧！
 设计：付悦 </description>
     </item>
-    
     <item>
       <title>Introduction to CourseBench AI</title>
       <link>https://clarivy.github.io/coursebench-ai/</link>
       <pubDate>Sun, 23 Jul 2023 22:49:07 +0800</pubDate>
-      
       <guid>https://clarivy.github.io/coursebench-ai/</guid>
       <description>Why We Need AI Assistance 我们为何需要 AI 的帮助 在信息爆炸的时代，CourseBench 专注于为所有学生提供一个公平、独立的课程评价平台。我们坚信，每一个声音都应该被听到，每一条评价都有其存在的价值。但随着用户数量的增长，各种投诉、举报和学校约谈消耗了我们大量时间和精力。因此，我们开发了 CourseBench AI，以 AI 的力量来帮助我们实现这个目标。
 In the era of information explosion, CourseBench is committed to providing a fair and independent course review platform for all students. However, as the number of users grows, we face some challenges. Various complaints, reports, and meetings with schools not only consume a lot of our time and energy, but more importantly, we firmly believe that every voice should be heard and every review has its value.</description>
     </item>
-    
     <item>
       <title>Introduce to CoursePrettier</title>
       <link>https://clarivy.github.io/posts/courseprettier/courseprettier/</link>
       <pubDate>Thu, 16 Feb 2023 14:52:07 +0800</pubDate>
-      
       <guid>https://clarivy.github.io/posts/courseprettier/courseprettier/</guid>
       <description>The project is now hosted on Here, you can try it out!
 What is CoursePrettier? CoursePrettier is a web-based project that aims to provide a better course schedule experience for students in ShanghaiTech University. With CoursePrettier, students can log in to their school account and enjoy a more refined course table that is visually appealing and easy to read.
 Light Mode Dark Mode Why we need CoursePrettier? The old EAMS system in ShanghaiTech University is what we need to deal with from day to day.</description>
     </item>
-    
     <item>
       <title>About Me</title>
       <link>https://clarivy.github.io/about/</link>
       <pubDate>Thu, 26 Jan 2023 16:25:07 +0800</pubDate>
-      
       <guid>https://clarivy.github.io/about/</guid>
       <description>Hi, there! 👋 I&amp;rsquo;m glad you found my website.
 I&amp;rsquo;m currently&amp;hellip; 🎓 Pursuing a degree in Computer Science at ShanghaiTech University. 🌱 Engaged in exploring the fields of Machine Learning and Computer Graphics. 🌐 Expanding my knowledge in Web Development, with hands-on experiences in React and Vue. 📷 A photography and videography enthusiast. 🎈 An avid participant in programming contests, with a background in OI and ACM contests. 💼 Currently interning at Deemos, contributing to advancements in DigitalHuman and 3D face reconstruction.</description>
     </item>
-    
   </channel>
 </rss>
